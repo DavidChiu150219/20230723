@@ -28,7 +28,7 @@ def play():
 
 while True:
     play()
-    
+
     try:
         a=str(input('Do you want to continue?(y or n)'))
     except:
